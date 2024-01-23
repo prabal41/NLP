@@ -1,2 +1,2 @@
 # NLP
-Author - Prabal Chauhan
+Author - Prabal Chauhan (NLP)
